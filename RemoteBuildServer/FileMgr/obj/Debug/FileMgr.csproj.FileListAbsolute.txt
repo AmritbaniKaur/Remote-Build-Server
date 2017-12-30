@@ -1,0 +1,39 @@
+C:\su\temp\NavigatorClient2\FileMgr\bin\Debug\FileMgr.exe.config
+C:\su\temp\NavigatorClient2\FileMgr\bin\Debug\FileMgr.exe
+C:\su\temp\NavigatorClient2\FileMgr\bin\Debug\FileMgr.pdb
+C:\su\temp\NavigatorClient2\FileMgr\obj\Debug\FileMgr.csproj.CoreCompileInputs.cache
+C:\su\temp\NavigatorClient2\FileMgr\obj\Debug\FileMgr.exe
+C:\su\temp\NavigatorClient2\FileMgr\obj\Debug\FileMgr.pdb
+C:\su\temp\NavigatorClient2\FileMgr\obj\Debug\FileMgr.csprojResolveAssemblyReference.cache
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\0. Project 3\Proto for GUI\NavigatorClient\FileMgr\bin\Debug\FileMgr.exe.config
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\0. Project 3\Proto for GUI\NavigatorClient\FileMgr\bin\Debug\FileMgr.exe
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\0. Project 3\Proto for GUI\NavigatorClient\FileMgr\bin\Debug\FileMgr.pdb
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\0. Project 3\Proto for GUI\NavigatorClient\FileMgr\obj\Debug\FileMgr.csproj.CoreCompileInputs.cache
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\0. Project 3\Proto for GUI\NavigatorClient\FileMgr\obj\Debug\FileMgr.exe
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\0. Project 3\Proto for GUI\NavigatorClient\FileMgr\obj\Debug\FileMgr.pdb
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\0. Project 3\Proto for GUI\NavigatorClient\FileMgr\obj\Debug\FileMgr.csprojResolveAssemblyReference.cache
+C:\Users\amrit\Desktop\Project 3 - Amritbani Sondhi\RemoteBuildServer\FileMgr\bin\Debug\FileMgr.exe.config
+C:\Users\amrit\Desktop\Project 3 - Amritbani Sondhi\RemoteBuildServer\FileMgr\bin\Debug\FileMgr.exe
+C:\Users\amrit\Desktop\Project 3 - Amritbani Sondhi\RemoteBuildServer\FileMgr\bin\Debug\FileMgr.pdb
+C:\Users\amrit\Desktop\Project 3 - Amritbani Sondhi\RemoteBuildServer\FileMgr\obj\Debug\FileMgr.exe
+C:\Users\amrit\Desktop\Project 3 - Amritbani Sondhi\RemoteBuildServer\FileMgr\obj\Debug\FileMgr.pdb
+C:\Users\amrit\Desktop\Project 3 - Amritbani Sondhi\RemoteBuildServer\FileMgr\obj\Debug\FileMgr.csprojResolveAssemblyReference.cache
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\FileMgr\bin\Debug\FileMgr.exe.config
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\FileMgr\bin\Debug\FileMgr.exe
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\FileMgr\bin\Debug\FileMgr.pdb
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\FileMgr\obj\Debug\FileMgr.csproj.CoreCompileInputs.cache
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\FileMgr\obj\Debug\FileMgr.exe
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\FileMgr\obj\Debug\FileMgr.pdb
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\FileMgr\bin\Debug\FileMgr.exe.config
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\FileMgr\bin\Debug\FileMgr.exe
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\FileMgr\bin\Debug\FileMgr.pdb
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\FileMgr\obj\Debug\FileMgr.csproj.CoreCompileInputs.cache
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\FileMgr\obj\Debug\FileMgr.exe
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\FileMgr\obj\Debug\FileMgr.pdb
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\FileMgr\bin\Debug\FileMgr.exe.config
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\FileMgr\bin\Debug\FileMgr.exe
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\FileMgr\bin\Debug\FileMgr.pdb
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\FileMgr\obj\Debug\FileMgr.exe
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\FileMgr\obj\Debug\FileMgr.pdb
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\FileMgr\obj\Debug\FileMgr.csprojResolveAssemblyReference.cache
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\FileMgr\obj\Debug\FileMgr.csprojResolveAssemblyReference.cache

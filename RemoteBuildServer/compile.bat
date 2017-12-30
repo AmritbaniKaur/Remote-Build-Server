@@ -1,0 +1,1 @@
+devenv /rebuild debug "RemoteBuildServer.sln"

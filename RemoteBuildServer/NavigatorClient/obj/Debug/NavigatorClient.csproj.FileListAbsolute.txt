@@ -1,0 +1,134 @@
+C:\su\temp\NavigatorClient2\NavigatorClient\bin\Debug\NavigatorClient.exe.config
+C:\su\temp\NavigatorClient2\NavigatorClient\bin\Debug\NavigatorClient.exe
+C:\su\temp\NavigatorClient2\NavigatorClient\bin\Debug\NavigatorClient.pdb
+C:\su\temp\NavigatorClient2\NavigatorClient\bin\Debug\FileMgr.exe
+C:\su\temp\NavigatorClient2\NavigatorClient\bin\Debug\FileMgr.pdb
+C:\su\temp\NavigatorClient2\NavigatorClient\bin\Debug\FileMgr.exe.config
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\NavigatorClient.csprojResolveAssemblyReference.cache
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\MainWindow.g.cs
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\App.g.cs
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.cache
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.lref
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\MainWindow.baml
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\NavigatorClient.g.resources
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\NavigatorClient.Properties.Resources.resources
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\NavigatorClient.csproj.GenerateResource.Cache
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\NavigatorClient.csproj.CoreCompileInputs.cache
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\NavigatorClient.exe
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\NavigatorClient.pdb
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\CodePopUp.g.cs
+C:\su\temp\NavigatorClient2\NavigatorClient\obj\Debug\CodePopUp.baml
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\0. Project 3\Proto for GUI\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient.csprojResolveAssemblyReference.cache
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\0. Project 3\Proto for GUI\NavigatorClient\NavigatorClient\obj\Debug\CodePopUp.g.cs
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\0. Project 3\Proto for GUI\NavigatorClient\NavigatorClient\obj\Debug\MainWindow.g.cs
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\0. Project 3\Proto for GUI\NavigatorClient\NavigatorClient\obj\Debug\App.g.cs
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\0. Project 3\Proto for GUI\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.cache
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\0. Project 3\Proto for GUI\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.lref
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\0. Project 3\Proto for GUI\NavigatorClient\NavigatorClient\bin\Debug\NavigatorClient.exe.config
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\0. Project 3\Proto for GUI\NavigatorClient\NavigatorClient\bin\Debug\NavigatorClient.exe
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\0. Project 3\Proto for GUI\NavigatorClient\NavigatorClient\bin\Debug\NavigatorClient.pdb
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\0. Project 3\Proto for GUI\NavigatorClient\NavigatorClient\bin\Debug\FileMgr.exe
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\0. Project 3\Proto for GUI\NavigatorClient\NavigatorClient\bin\Debug\FileMgr.pdb
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\0. Project 3\Proto for GUI\NavigatorClient\NavigatorClient\bin\Debug\FileMgr.exe.config
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\0. Project 3\Proto for GUI\NavigatorClient\NavigatorClient\obj\Debug\CodePopUp.baml
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\0. Project 3\Proto for GUI\NavigatorClient\NavigatorClient\obj\Debug\MainWindow.baml
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\0. Project 3\Proto for GUI\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient.g.resources
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\0. Project 3\Proto for GUI\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient.Properties.Resources.resources
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\0. Project 3\Proto for GUI\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient.csproj.GenerateResource.Cache
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\0. Project 3\Proto for GUI\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient.csproj.CoreCompileInputs.cache
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\0. Project 3\Proto for GUI\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient.exe
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\0. Project 3\Proto for GUI\NavigatorClient\NavigatorClient\obj\Debug\NavigatorClient.pdb
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\0. Project 3\Proto for GUI\NavigatorClient\NavigatorClient\bin\Debug\SMA-ProjectTemplate1.exe
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\0. Project 3\Proto for GUI\NavigatorClient\NavigatorClient\bin\Debug\SMA-ProjectTemplate1.pdb
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\0. Project 3\Proto for GUI\NavigatorClient\NavigatorClient\bin\Debug\SMA-ProjectTemplate1.exe.config
+C:\Users\amrit\Desktop\Project 3 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\bin\Debug\NavigatorClient.exe
+C:\Users\amrit\Desktop\Project 3 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\bin\Debug\NavigatorClient.exe.config
+C:\Users\amrit\Desktop\Project 3 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\bin\Debug\NavigatorClient.pdb
+C:\Users\amrit\Desktop\Project 3 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\bin\Debug\FileMgr.exe
+C:\Users\amrit\Desktop\Project 3 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\bin\Debug\SMA-ProjectTemplate1.exe
+C:\Users\amrit\Desktop\Project 3 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\bin\Debug\FileMgr.pdb
+C:\Users\amrit\Desktop\Project 3 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\bin\Debug\SMA-ProjectTemplate1.pdb
+C:\Users\amrit\Desktop\Project 3 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\obj\Debug\NavigatorClient.csprojResolveAssemblyReference.cache
+C:\Users\amrit\Desktop\Project 3 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\obj\Debug\CodePopUp.g.cs
+C:\Users\amrit\Desktop\Project 3 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\obj\Debug\MainWindow.g.cs
+C:\Users\amrit\Desktop\Project 3 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\obj\Debug\App.g.cs
+C:\Users\amrit\Desktop\Project 3 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.cache
+C:\Users\amrit\Desktop\Project 3 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.lref
+C:\Users\amrit\Desktop\Project 3 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\obj\Debug\CodePopUp.baml
+C:\Users\amrit\Desktop\Project 3 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\obj\Debug\MainWindow.baml
+C:\Users\amrit\Desktop\Project 3 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\obj\Debug\NavigatorClient.g.resources
+C:\Users\amrit\Desktop\Project 3 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\obj\Debug\NavigatorClient.Properties.Resources.resources
+C:\Users\amrit\Desktop\Project 3 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\obj\Debug\NavigatorClient.csproj.GenerateResource.Cache
+C:\Users\amrit\Desktop\Project 3 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\obj\Debug\NavigatorClient.exe
+C:\Users\amrit\Desktop\Project 3 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\obj\Debug\NavigatorClient.pdb
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\bin\Debug\NavigatorClient.exe.config
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\bin\Debug\NavigatorClient.exe
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\bin\Debug\NavigatorClient.pdb
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\bin\Debug\FileMgr.exe
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\bin\Debug\SMA-ProjectTemplate1.exe
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\bin\Debug\FileMgr.pdb
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\bin\Debug\FileMgr.exe.config
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\bin\Debug\SMA-ProjectTemplate1.pdb
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\bin\Debug\SMA-ProjectTemplate1.exe.config
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\obj\Debug\NavigatorClient.csprojResolveAssemblyReference.cache
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\obj\Debug\CodePopUp.g.cs
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\obj\Debug\MainWindow.g.cs
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\obj\Debug\App.g.cs
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.cache
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.lref
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\obj\Debug\CodePopUp.baml
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\obj\Debug\MainWindow.baml
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\obj\Debug\NavigatorClient.g.resources
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\obj\Debug\NavigatorClient.Properties.Resources.resources
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\obj\Debug\NavigatorClient.csproj.GenerateResource.Cache
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\obj\Debug\NavigatorClient.csproj.CoreCompileInputs.cache
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\obj\Debug\NavigatorClient.exe
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\obj\Debug\NavigatorClient.pdb
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\bin\Debug\NavigatorClient.exe.config
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\bin\Debug\NavigatorClient.exe
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\bin\Debug\NavigatorClient.pdb
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\bin\Debug\FileMgr.exe
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\bin\Debug\SMA-ProjectTemplate1.exe
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\bin\Debug\FileMgr.pdb
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\bin\Debug\FileMgr.exe.config
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\bin\Debug\SMA-ProjectTemplate1.pdb
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\bin\Debug\SMA-ProjectTemplate1.exe.config
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\obj\Debug\NavigatorClient.csprojResolveAssemblyReference.cache
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\obj\Debug\CodePopUp.g.cs
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\obj\Debug\MainWindow.g.cs
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\obj\Debug\App.g.cs
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.cache
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.lref
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\obj\Debug\CodePopUp.baml
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\obj\Debug\MainWindow.baml
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\obj\Debug\NavigatorClient.g.resources
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\obj\Debug\NavigatorClient.Properties.Resources.resources
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\obj\Debug\NavigatorClient.csproj.GenerateResource.Cache
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\obj\Debug\NavigatorClient.csproj.CoreCompileInputs.cache
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\obj\Debug\NavigatorClient.exe
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\obj\Debug\NavigatorClient.pdb
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\bin\Debug\PluggableCommService.exe
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\bin\Debug\PluggableCommService.pdb
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\bin\Debug\PluggableCommService.exe.config
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\bin\Debug\NavigatorClient.exe.config
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\bin\Debug\NavigatorClient.exe
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\bin\Debug\NavigatorClient.pdb
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\bin\Debug\FileMgr.exe
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\bin\Debug\PluggableCommService.exe
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\bin\Debug\SMA-ProjectTemplate1.exe
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\bin\Debug\FileMgr.pdb
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\bin\Debug\PluggableCommService.pdb
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\bin\Debug\SMA-ProjectTemplate1.pdb
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\obj\Debug\NavigatorClient.csprojResolveAssemblyReference.cache
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\obj\Debug\CodePopUp.g.cs
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\obj\Debug\MainWindow.g.cs
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\obj\Debug\App.g.cs
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.cache
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\obj\Debug\NavigatorClient_MarkupCompile.lref
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\obj\Debug\CodePopUp.baml
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\obj\Debug\MainWindow.baml
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\obj\Debug\NavigatorClient.g.resources
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\obj\Debug\NavigatorClient.Properties.Resources.resources
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\obj\Debug\NavigatorClient.csproj.GenerateResource.Cache
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\obj\Debug\NavigatorClient.exe
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\NavigatorClient\obj\Debug\NavigatorClient.pdb

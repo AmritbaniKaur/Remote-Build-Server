@@ -1,0 +1,86 @@
+C:\Users\amrit\Desktop\Project 3 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\obj\Debug\TestExecutive.csprojResolveAssemblyReference.cache
+C:\Users\amrit\Desktop\Project 3 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\TestExecutive.exe.config
+C:\Users\amrit\Desktop\Project 3 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\TestExecutive.exe
+C:\Users\amrit\Desktop\Project 3 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\TestExecutive.pdb
+C:\Users\amrit\Desktop\Project 3 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\NavigatorClient.exe
+C:\Users\amrit\Desktop\Project 3 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\RemoteBuildServer.exe
+C:\Users\amrit\Desktop\Project 3 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\RepoMock.exe
+C:\Users\amrit\Desktop\Project 3 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\FileMgr.exe
+C:\Users\amrit\Desktop\Project 3 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\SMA-ProjectTemplate1.exe
+C:\Users\amrit\Desktop\Project 3 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\PluggableCommService.exe
+C:\Users\amrit\Desktop\Project 3 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\NavigatorClient.pdb
+C:\Users\amrit\Desktop\Project 3 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\RemoteBuildServer.pdb
+C:\Users\amrit\Desktop\Project 3 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\RepoMock.pdb
+C:\Users\amrit\Desktop\Project 3 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\FileMgr.pdb
+C:\Users\amrit\Desktop\Project 3 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\SMA-ProjectTemplate1.pdb
+C:\Users\amrit\Desktop\Project 3 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\PluggableCommService.pdb
+C:\Users\amrit\Desktop\Project 3 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\obj\Debug\TestExecutive.exe
+C:\Users\amrit\Desktop\Project 3 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\obj\Debug\TestExecutive.pdb
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\TestExecutive.exe.config
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\TestExecutive.exe
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\TestExecutive.pdb
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\NavigatorClient.exe
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\RemoteBuildServer.exe
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\RepoMock.exe
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\FileMgr.exe
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\SMA-ProjectTemplate1.exe
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\PluggableCommService.exe
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\NavigatorClient.pdb
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\NavigatorClient.exe.config
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\RemoteBuildServer.pdb
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\RemoteBuildServer.exe.config
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\RepoMock.pdb
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\RepoMock.exe.config
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\FileMgr.pdb
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\FileMgr.exe.config
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\SMA-ProjectTemplate1.pdb
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\SMA-ProjectTemplate1.exe.config
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\PluggableCommService.pdb
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\PluggableCommService.exe.config
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\obj\Debug\TestExecutive.csprojResolveAssemblyReference.cache
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\obj\Debug\TestExecutive.csproj.CoreCompileInputs.cache
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\obj\Debug\TestExecutive.exe
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\obj\Debug\TestExecutive.pdb
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\TestExecutive.exe.config
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\TestExecutive.exe
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\TestExecutive.pdb
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\NavigatorClient.exe
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\RemoteBuildServer.exe
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\RepoMock.exe
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\FileMgr.exe
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\SMA-ProjectTemplate1.exe
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\PluggableCommService.exe
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\NavigatorClient.pdb
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\NavigatorClient.exe.config
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\RemoteBuildServer.pdb
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\RemoteBuildServer.exe.config
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\RepoMock.pdb
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\RepoMock.exe.config
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\FileMgr.pdb
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\FileMgr.exe.config
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\SMA-ProjectTemplate1.pdb
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\SMA-ProjectTemplate1.exe.config
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\PluggableCommService.pdb
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\PluggableCommService.exe.config
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\obj\Debug\TestExecutive.csprojResolveAssemblyReference.cache
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\obj\Debug\TestExecutive.csproj.CoreCompileInputs.cache
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\obj\Debug\TestExecutive.exe
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\obj\Debug\TestExecutive.pdb
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\TestExecutive.exe.config
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\TestExecutive.exe
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\TestExecutive.pdb
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\NavigatorClient.exe
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\RemoteBuildServer.exe
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\RepoMock.exe
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\FileMgr.exe
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\PluggableCommService.exe
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\SMA-ProjectTemplate1.exe
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\NavigatorClient.pdb
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\RemoteBuildServer.pdb
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\RepoMock.pdb
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\FileMgr.pdb
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\PluggableCommService.pdb
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\bin\Debug\SMA-ProjectTemplate1.pdb
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\obj\Debug\TestExecutive.csprojResolveAssemblyReference.cache
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\obj\Debug\TestExecutive.exe
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestExecutive\obj\Debug\TestExecutive.pdb

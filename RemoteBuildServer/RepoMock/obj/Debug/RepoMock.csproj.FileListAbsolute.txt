@@ -1,0 +1,71 @@
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\2. Helper Code\HelpSession-8-Sep-2017\RepoMock\bin\Debug\RepoMock.exe.config
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\2. Helper Code\HelpSession-8-Sep-2017\RepoMock\bin\Debug\RepoMock.exe
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\2. Helper Code\HelpSession-8-Sep-2017\RepoMock\bin\Debug\RepoMock.pdb
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\2. Helper Code\HelpSession-8-Sep-2017\RepoMock\bin\Debug\SMA-ProjectTemplate1.exe
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\2. Helper Code\HelpSession-8-Sep-2017\RepoMock\bin\Debug\SMA-ProjectTemplate1.pdb
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\2. Helper Code\HelpSession-8-Sep-2017\RepoMock\bin\Debug\SMA-ProjectTemplate1.exe.config
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\2. Helper Code\HelpSession-8-Sep-2017\RepoMock\obj\Debug\RepoMock.csprojResolveAssemblyReference.cache
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\2. Helper Code\HelpSession-8-Sep-2017\RepoMock\obj\Debug\RepoMock.csproj.CoreCompileInputs.cache
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\2. Helper Code\HelpSession-8-Sep-2017\RepoMock\obj\Debug\RepoMock.exe
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\2. Helper Code\HelpSession-8-Sep-2017\RepoMock\obj\Debug\RepoMock.pdb
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 2\Project 2- Amritbani Sondhi\RemoteBuildServer\RepoMock\bin\Debug\RepoMock.exe.config
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 2\Project 2- Amritbani Sondhi\RemoteBuildServer\RepoMock\bin\Debug\RepoMock.exe
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 2\Project 2- Amritbani Sondhi\RemoteBuildServer\RepoMock\bin\Debug\RepoMock.pdb
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 2\Project 2- Amritbani Sondhi\RemoteBuildServer\RepoMock\bin\Debug\SMA-ProjectTemplate1.exe
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 2\Project 2- Amritbani Sondhi\RemoteBuildServer\RepoMock\bin\Debug\SMA-ProjectTemplate1.pdb
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 2\Project 2- Amritbani Sondhi\RemoteBuildServer\RepoMock\obj\Debug\RepoMock.csprojResolveAssemblyReference.cache
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 2\Project 2- Amritbani Sondhi\RemoteBuildServer\RepoMock\obj\Debug\RepoMock.exe
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 2\Project 2- Amritbani Sondhi\RemoteBuildServer\RepoMock\obj\Debug\RepoMock.pdb
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 2\Project 2- Amritbani Sondhi\RemoteBuildServer\RepoMock\bin\Debug\SMA-ProjectTemplate1.exe.config
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 2\Project 2- Amritbani Sondhi\RemoteBuildServer\RepoMock\obj\Debug\RepoMock.csproj.CoreCompileInputs.cache
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 3\Project 3 - Amritbani Sondhi\RemoteBuildServer\RepoMock\bin\Debug\RepoMock.exe.config
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 3\Project 3 - Amritbani Sondhi\RemoteBuildServer\RepoMock\bin\Debug\RepoMock.exe
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 3\Project 3 - Amritbani Sondhi\RemoteBuildServer\RepoMock\bin\Debug\RepoMock.pdb
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 3\Project 3 - Amritbani Sondhi\RemoteBuildServer\RepoMock\bin\Debug\PluggableCommService.exe
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 3\Project 3 - Amritbani Sondhi\RemoteBuildServer\RepoMock\bin\Debug\PluggableCommService.pdb
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 3\Project 3 - Amritbani Sondhi\RemoteBuildServer\RepoMock\bin\Debug\PluggableCommService.exe.config
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 3\Project 3 - Amritbani Sondhi\RemoteBuildServer\RepoMock\obj\Debug\RepoMock.csprojResolveAssemblyReference.cache
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 3\Project 3 - Amritbani Sondhi\RemoteBuildServer\RepoMock\obj\Debug\RepoMock.csproj.CoreCompileInputs.cache
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 3\Project 3 - Amritbani Sondhi\RemoteBuildServer\RepoMock\obj\Debug\RepoMock.exe
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 3\Project 3 - Amritbani Sondhi\RemoteBuildServer\RepoMock\obj\Debug\RepoMock.pdb
+C:\Users\amrit\Desktop\Project 3 - Amritbani Sondhi\RemoteBuildServer\RepoMock\bin\Debug\RepoMock.exe
+C:\Users\amrit\Desktop\Project 3 - Amritbani Sondhi\RemoteBuildServer\RepoMock\bin\Debug\RepoMock.exe.config
+C:\Users\amrit\Desktop\Project 3 - Amritbani Sondhi\RemoteBuildServer\RepoMock\bin\Debug\RepoMock.pdb
+C:\Users\amrit\Desktop\Project 3 - Amritbani Sondhi\RemoteBuildServer\RepoMock\bin\Debug\PluggableCommService.exe
+C:\Users\amrit\Desktop\Project 3 - Amritbani Sondhi\RemoteBuildServer\RepoMock\bin\Debug\PluggableCommService.pdb
+C:\Users\amrit\Desktop\Project 3 - Amritbani Sondhi\RemoteBuildServer\RepoMock\obj\Debug\RepoMock.csprojResolveAssemblyReference.cache
+C:\Users\amrit\Desktop\Project 3 - Amritbani Sondhi\RemoteBuildServer\RepoMock\obj\Debug\RepoMock.exe
+C:\Users\amrit\Desktop\Project 3 - Amritbani Sondhi\RemoteBuildServer\RepoMock\obj\Debug\RepoMock.pdb
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\RepoMock\bin\Debug\RepoMock.exe.config
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\RepoMock\bin\Debug\RepoMock.exe
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\RepoMock\bin\Debug\RepoMock.pdb
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\RepoMock\bin\Debug\PluggableCommService.exe
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\RepoMock\bin\Debug\PluggableCommService.pdb
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\RepoMock\bin\Debug\PluggableCommService.exe.config
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\RepoMock\obj\Debug\RepoMock.csprojResolveAssemblyReference.cache
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\RepoMock\obj\Debug\RepoMock.csproj.CoreCompileInputs.cache
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\RepoMock\obj\Debug\RepoMock.exe
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\RepoMock\obj\Debug\RepoMock.pdb
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\RepoMock\bin\Debug\RepoMock.exe.config
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\RepoMock\bin\Debug\RepoMock.exe
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\RepoMock\bin\Debug\RepoMock.pdb
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\RepoMock\bin\Debug\PluggableCommService.exe
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\RepoMock\bin\Debug\PluggableCommService.pdb
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\RepoMock\bin\Debug\PluggableCommService.exe.config
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\RepoMock\obj\Debug\RepoMock.csprojResolveAssemblyReference.cache
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\RepoMock\obj\Debug\RepoMock.csproj.CoreCompileInputs.cache
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\RepoMock\obj\Debug\RepoMock.exe
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\RepoMock\obj\Debug\RepoMock.pdb
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\RepoMock\bin\Debug\FileMgr.exe
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\RepoMock\bin\Debug\FileMgr.pdb
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\RepoMock\bin\Debug\FileMgr.exe.config
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\RepoMock\bin\Debug\RepoMock.exe.config
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\RepoMock\bin\Debug\RepoMock.exe
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\RepoMock\bin\Debug\RepoMock.pdb
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\RepoMock\bin\Debug\FileMgr.exe
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\RepoMock\bin\Debug\PluggableCommService.exe
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\RepoMock\bin\Debug\FileMgr.pdb
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\RepoMock\bin\Debug\PluggableCommService.pdb
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\RepoMock\obj\Debug\RepoMock.csprojResolveAssemblyReference.cache
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\RepoMock\obj\Debug\RepoMock.exe
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\RepoMock\obj\Debug\RepoMock.pdb

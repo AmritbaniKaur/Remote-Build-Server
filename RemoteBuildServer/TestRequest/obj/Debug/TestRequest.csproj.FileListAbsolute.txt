@@ -1,0 +1,54 @@
+C:\su\CSE681\code\Project2HelpF2017\HelpSession-8-Sep-2017\SMA-ProjectTemplate1\bin\Debug\SMA-ProjectTemplate1.exe.config
+C:\su\CSE681\code\Project2HelpF2017\HelpSession-8-Sep-2017\SMA-ProjectTemplate1\bin\Debug\SMA-ProjectTemplate1.exe
+C:\su\CSE681\code\Project2HelpF2017\HelpSession-8-Sep-2017\SMA-ProjectTemplate1\bin\Debug\SMA-ProjectTemplate1.pdb
+C:\su\CSE681\code\Project2HelpF2017\HelpSession-8-Sep-2017\SMA-ProjectTemplate1\obj\Debug\TestRequest.csprojResolveAssemblyReference.cache
+C:\su\CSE681\code\Project2HelpF2017\HelpSession-8-Sep-2017\SMA-ProjectTemplate1\obj\Debug\TestRequest.csproj.CoreCompileInputs.cache
+C:\su\CSE681\code\Project2HelpF2017\HelpSession-8-Sep-2017\SMA-ProjectTemplate1\obj\Debug\SMA-ProjectTemplate1.exe
+C:\su\CSE681\code\Project2HelpF2017\HelpSession-8-Sep-2017\SMA-ProjectTemplate1\obj\Debug\SMA-ProjectTemplate1.pdb
+C:\Users\Ojas Juneja\Desktop\2. SMA\Helper Code\HelpSession-8-Sep-2017\TestRequest\bin\Debug\SMA-ProjectTemplate1.exe.config
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\2. Helper Code\HelpSession-8-Sep-2017\TestRequest\bin\Debug\SMA-ProjectTemplate1.exe.config
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\2. Helper Code\HelpSession-8-Sep-2017\TestRequest\bin\Debug\SMA-ProjectTemplate1.exe
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\2. Helper Code\HelpSession-8-Sep-2017\TestRequest\bin\Debug\SMA-ProjectTemplate1.pdb
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\2. Helper Code\HelpSession-8-Sep-2017\TestRequest\obj\Debug\TestRequest.csprojResolveAssemblyReference.cache
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\2. Helper Code\HelpSession-8-Sep-2017\TestRequest\obj\Debug\TestRequest.csproj.CoreCompileInputs.cache
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\2. Helper Code\HelpSession-8-Sep-2017\TestRequest\obj\Debug\SMA-ProjectTemplate1.exe
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\2. Helper Code\HelpSession-8-Sep-2017\TestRequest\obj\Debug\SMA-ProjectTemplate1.pdb
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 2\Project 2- Amritbani Sondhi\RemoteBuildServer\TestRequest\bin\Debug\SMA-ProjectTemplate1.exe.config
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 2\Project 2- Amritbani Sondhi\RemoteBuildServer\TestRequest\bin\Debug\SMA-ProjectTemplate1.exe
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 2\Project 2- Amritbani Sondhi\RemoteBuildServer\TestRequest\bin\Debug\SMA-ProjectTemplate1.pdb
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 2\Project 2- Amritbani Sondhi\RemoteBuildServer\TestRequest\obj\Debug\SMA-ProjectTemplate1.exe
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 2\Project 2- Amritbani Sondhi\RemoteBuildServer\TestRequest\obj\Debug\SMA-ProjectTemplate1.pdb
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 2\Project 2- Amritbani Sondhi\RemoteBuildServer\TestRequest\obj\Debug\TestRequest.csprojResolveAssemblyReference.cache
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 2\Project 2- Amritbani Sondhi\RemoteBuildServer\TestRequest\obj\Debug\TestRequest.csproj.CoreCompileInputs.cache
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\0. Project 3\Proto for GUI\NavigatorClient\TestRequest\bin\Debug\SMA-ProjectTemplate1.exe.config
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\0. Project 3\Proto for GUI\NavigatorClient\TestRequest\bin\Debug\SMA-ProjectTemplate1.exe
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\0. Project 3\Proto for GUI\NavigatorClient\TestRequest\bin\Debug\SMA-ProjectTemplate1.pdb
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\0. Project 3\Proto for GUI\NavigatorClient\TestRequest\obj\Debug\TestRequest.csproj.CoreCompileInputs.cache
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\0. Project 3\Proto for GUI\NavigatorClient\TestRequest\obj\Debug\SMA-ProjectTemplate1.exe
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\0. Project 3\Proto for GUI\NavigatorClient\TestRequest\obj\Debug\SMA-ProjectTemplate1.pdb
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\0. Project 3\Proto for GUI\NavigatorClient\TestRequest\obj\Debug\TestRequest.csprojResolveAssemblyReference.cache
+C:\Users\amrit\Desktop\Project 3 - Amritbani Sondhi\RemoteBuildServer\TestRequest\bin\Debug\SMA-ProjectTemplate1.exe.config
+C:\Users\amrit\Desktop\Project 3 - Amritbani Sondhi\RemoteBuildServer\TestRequest\bin\Debug\SMA-ProjectTemplate1.exe
+C:\Users\amrit\Desktop\Project 3 - Amritbani Sondhi\RemoteBuildServer\TestRequest\bin\Debug\SMA-ProjectTemplate1.pdb
+C:\Users\amrit\Desktop\Project 3 - Amritbani Sondhi\RemoteBuildServer\TestRequest\obj\Debug\SMA-ProjectTemplate1.exe
+C:\Users\amrit\Desktop\Project 3 - Amritbani Sondhi\RemoteBuildServer\TestRequest\obj\Debug\SMA-ProjectTemplate1.pdb
+C:\Users\amrit\Desktop\Project 3 - Amritbani Sondhi\RemoteBuildServer\TestRequest\obj\Debug\TestRequest.csprojResolveAssemblyReference.cache
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestRequest\bin\Debug\SMA-ProjectTemplate1.exe.config
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestRequest\bin\Debug\SMA-ProjectTemplate1.exe
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestRequest\bin\Debug\SMA-ProjectTemplate1.pdb
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestRequest\obj\Debug\TestRequest.csproj.CoreCompileInputs.cache
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestRequest\obj\Debug\SMA-ProjectTemplate1.exe
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestRequest\obj\Debug\SMA-ProjectTemplate1.pdb
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestRequest\bin\Debug\SMA-ProjectTemplate1.exe.config
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestRequest\bin\Debug\SMA-ProjectTemplate1.exe
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestRequest\bin\Debug\SMA-ProjectTemplate1.pdb
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestRequest\obj\Debug\TestRequest.csproj.CoreCompileInputs.cache
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestRequest\obj\Debug\SMA-ProjectTemplate1.exe
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestRequest\obj\Debug\SMA-ProjectTemplate1.pdb
+C:\Users\amrit\Desktop\The Drive\Curriculum\2. SMA\1. Project Codes\Project 4\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestRequest\obj\Debug\TestRequest.csprojResolveAssemblyReference.cache
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestRequest\bin\Debug\SMA-ProjectTemplate1.exe.config
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestRequest\bin\Debug\SMA-ProjectTemplate1.exe
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestRequest\bin\Debug\SMA-ProjectTemplate1.pdb
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestRequest\obj\Debug\SMA-ProjectTemplate1.exe
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestRequest\obj\Debug\SMA-ProjectTemplate1.pdb
+C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer\TestRequest\obj\Debug\TestRequest.csprojResolveAssemblyReference.cache

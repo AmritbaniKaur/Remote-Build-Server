@@ -1,0 +1,677 @@
+
+                                      CodeAnalysis - Version 1.4
+    ==============================================================================================
+     Wed Dec  6 23:45:33 2017
+     Path: "C:\Users\amrit\Desktop\Project 4 - Amritbani Sondhi\Project 4 - Amritbani Sondhi\RemoteBuildServer"
+     Args: *.cs, RemoteBuildServer.sln, /m, /r, /f
+                                                                               
+           Code Metrics - Start Line, Size (lines/code), and Complexity (number of scopes)
+    ==============================================================================================
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                             namespace                   Global Namespace       1       1     858
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                  App.g.cs   namespace                    NavigatorClient      35      35       4
+                  App.g.cs       class                                App      41      29       3
+                  App.g.cs    function       DebuggerNonUserCodeAttribute      48       8       1
+                  App.g.cs    function                 STAThreadAttribute      63       5       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                App.g.i.cs   namespace                    NavigatorClient      35      35       4
+                App.g.i.cs       class                                App      41      29       3
+                App.g.i.cs    function       DebuggerNonUserCodeAttribute      48       8       1
+                App.g.i.cs    function                 STAThreadAttribute      63       5       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+               App.xaml.cs   namespace                    NavigatorClient      10       9       2
+               App.xaml.cs       class                                App      15       4       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+          BlockingQueue.cs   namespace                            SWTools      46      88      17
+          BlockingQueue.cs       class                      BlockingQueue      48      52      11
+          BlockingQueue.cs    function                      BlockingQueue      54       3       1
+          BlockingQueue.cs    function                                enQ      60       7       2
+          BlockingQueue.cs    function                               lock      62       4       1
+          BlockingQueue.cs    function                                deQ      72      12       3
+          BlockingQueue.cs    function                               lock      75       8       2
+          BlockingQueue.cs    function                               size      87       5       2
+          BlockingQueue.cs    function                               lock      88       2       1
+          BlockingQueue.cs    function                              clear      95       3       2
+          BlockingQueue.cs    function                               lock      95       2       1
+          BlockingQueue.cs       class                            Program     103      30       5
+          BlockingQueue.cs    function                               Main     105      26       4
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+           ChildBuilder.cs   namespace                         Federation      57     447      67
+           ChildBuilder.cs       class                       ChildBuilder      60     444      66
+           ChildBuilder.cs    function                       ChildBuilder      82      21       1
+           ChildBuilder.cs    function                     requestHandler     106      40       8
+           ChildBuilder.cs    function               handleRequestMessage     148      15       4
+           ChildBuilder.cs    function                 handleBuildRequest     165      21       1
+           ChildBuilder.cs    function                   handleDLLRequest     188      28       1
+           ChildBuilder.cs    function                  handleQuitMessage     218      16       3
+           ChildBuilder.cs    function                 handleMessageReply     236      14       3
+           ChildBuilder.cs    function                       sendDllFiles     252      23       3
+           ChildBuilder.cs    function                       triggerBuild     277      42       6
+           ChildBuilder.cs    function                              demo1     321       8       1
+           ChildBuilder.cs    function                              demo2     330       8       1
+           ChildBuilder.cs    function                   getSpecificFiles     341      12       2
+           ChildBuilder.cs    function                      createLogFile     356      13       1
+           ChildBuilder.cs    function                         startBuild     372      20       4
+           ChildBuilder.cs    function                           BuildXml     399      49      10
+           ChildBuilder.cs    function                              using     433       2       1
+           ChildBuilder.cs    function                              using     440       3       1
+           ChildBuilder.cs    function       sendTestRequestToTestHarness     451      28       2
+           ChildBuilder.cs    function                               Main     483      19       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+            CodePopUp.g.cs   namespace                    NavigatorClient      35      54       6
+            CodePopUp.g.cs       class                          CodePopUp      41      48       5
+            CodePopUp.g.cs    function       DebuggerNonUserCodeAttribute      58      13       2
+            CodePopUp.g.cs    function       DebuggerNonUserCodeAttribute      78       9       2
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+          CodePopUp.g.i.cs   namespace                    NavigatorClient      35      54       6
+          CodePopUp.g.i.cs       class                          CodePopUp      41      48       5
+          CodePopUp.g.i.cs    function       DebuggerNonUserCodeAttribute      58      13       2
+          CodePopUp.g.i.cs    function       DebuggerNonUserCodeAttribute      78       9       2
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+         CodePopUp.xaml.cs   namespace                    NavigatorClient      22       9       3
+         CodePopUp.xaml.cs       class                          CodePopUp      24       7       2
+         CodePopUp.xaml.cs    function                          CodePopUp      26       3       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+              DllLoader.cs   namespace                      DllLoaderDemo      51     140      18
+              DllLoader.cs       class                      DllLoaderExec      53     138      17
+              DllLoader.cs    function                      DllLoaderExec      60       6       1
+              DllLoader.cs    function                      createLogFile      69      19       1
+              DllLoader.cs    function         LoadFromComponentLibFolder      97       9       1
+              DllLoader.cs    function             loadAndExerciseTesters     109      45       5
+              DllLoader.cs    function                   runSimulatedTest     157      32       4
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+            Environment.cs   namespace                    NavigatorClient      22      31      22
+            Environment.cs      struct                        Environment      24       9       7
+            Environment.cs      struct                  ClientEnvironment      34       9       7
+            Environment.cs      struct                  ServerEnvironment      44       9       7
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                FileMgr.cs   namespace                    NavigatorClient      43     103      20
+                FileMgr.cs   interface                           IFileMgr      49       7       3
+                FileMgr.cs       class                     FileMgrFactory      58      10       2
+                FileMgr.cs    function                             create      60       6       1
+                FileMgr.cs       class                       LocalFileMgr      71      52      10
+                FileMgr.cs    function                       LocalFileMgr      77       3       1
+                FileMgr.cs    function                           getFiles      83      13       2
+                FileMgr.cs    function                            getDirs      99      13       2
+                FileMgr.cs    function                             setDir     115       6       1
+                FileMgr.cs       class                        TestFileMgr     125      19       3
+                FileMgr.cs    function                               Main     127      15       2
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+         IMPCommService.cs   namespace                 MessagePassingComm      56     191      36
+         IMPCommService.cs      struct                  ClientEnvironment      64       7       5
+         IMPCommService.cs      struct                 ServiceEnvironment      72       5       3
+         IMPCommService.cs   interface                IMessagePassingComm      79      18       1
+         IMPCommService.cs       class                        CommMessage     100      95      15
+         IMPCommService.cs    function                        CommMessage     117       3       1
+         IMPCommService.cs    function                        CommMessage     123       8       1
+         IMPCommService.cs    function                               show     161      17       1
+         IMPCommService.cs    function                              clone     180      12       1
+         IMPCommService.cs       class                        ChannelComm     196      38       9
+         IMPCommService.cs    function                        ChannelComm     201       3       1
+         IMPCommService.cs    function                  commHandleRequest     207      15       4
+         IMPCommService.cs    function                     initializeComm     228       4       1
+         IMPCommService.cs       class                    TestCommMessage     236      10       2
+         IMPCommService.cs    function                               Main     238       6       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                  ITest.cs   namespace                            DemoApp       8       6       2
+                  ITest.cs   interface                              ITest      10       3       1
+                  ITest.cs   namespace                            DemoApp       8       6       2
+                  ITest.cs   interface                              ITest      10       3       1
+                  ITest.cs   namespace                            DemoApp       8       6       2
+                  ITest.cs   interface                              ITest      10       3       1
+                  ITest.cs   namespace                            DemoApp       8       6       2
+                  ITest.cs   interface                              ITest      10       3       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+          MPCommService.cs   namespace                 MessagePassingComm      88     531      74
+          MPCommService.cs       class                           Receiver      92     134      21
+          MPCommService.cs    function                           Receiver     105       4       1
+          MPCommService.cs    function                              start     115      20       3
+          MPCommService.cs    function                     createCommHost     141       7       1
+          MPCommService.cs    function                        postMessage     151       5       1
+          MPCommService.cs    function                         getMessage     159      12       3
+          MPCommService.cs    function                               size     174       3       1
+          MPCommService.cs    function                              close     180       7       1
+          MPCommService.cs    function                   openFileForWrite     190      13       3
+          MPCommService.cs    function                     writeFileBlock     206      12       3
+          MPCommService.cs    function                          closeFile     221       3       1
+          MPCommService.cs       class                             Sender     229     181      30
+          MPCommService.cs    function                             Sender     245       7       1
+          MPCommService.cs    function                  createSendChannel     255       6       1
+          MPCommService.cs    function                            connect     264       4       1
+          MPCommService.cs    function                            connect     277      28       6
+          MPCommService.cs    function                              close     308      17       4
+          MPCommService.cs    function                         threadProc     332      36       9
+          MPCommService.cs    function                        postMessage     371       3       1
+          MPCommService.cs    function                           postFile     377      31       4
+          MPCommService.cs       class                               Comm     413      71      12
+          MPCommService.cs    function                               Comm     425       8       1
+          MPCommService.cs    function                        postMessage     436       3       1
+          MPCommService.cs    function                         getMessage     442       3       1
+          MPCommService.cs    function                           postFile     448       3       1
+          MPCommService.cs    function                              close     452       5       1
+          MPCommService.cs    function                            restart     461      10       2
+          MPCommService.cs    function                    closeConnection     474       3       1
+          MPCommService.cs    function                               size     479       3       1
+          MPCommService.cs       class                   TestPCommService     487     132      10
+          MPCommService.cs    function                  getClientFileList     490       9       2
+          MPCommService.cs    function                        compareMsgs     505      16       2
+          MPCommService.cs    function                   compareFileBytes     524      22       4
+          MPCommService.cs    function                               Main     609       7       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+           MainWindow.g.cs   namespace                    NavigatorClient      35     298       6
+           MainWindow.g.cs       class                         MainWindow      41     292       5
+           MainWindow.g.cs    function       DebuggerNonUserCodeAttribute     170      13       2
+           MainWindow.g.cs    function       DebuggerNonUserCodeAttribute     190     141       2
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+         MainWindow.g.i.cs   namespace                    NavigatorClient      35     298       6
+         MainWindow.g.i.cs       class                         MainWindow      41     292       5
+         MainWindow.g.i.cs    function       DebuggerNonUserCodeAttribute     170      13       2
+         MainWindow.g.i.cs    function       DebuggerNonUserCodeAttribute     190     141       2
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+        MainWindow.xaml.cs   namespace                    NavigatorClient      59     504      59
+        MainWindow.xaml.cs       class                         MainWindow      62     501      58
+        MainWindow.xaml.cs    function                         MainWindow      79      24       1
+        MainWindow.xaml.cs    function              initializeEnvironment     107       6       1
+        MainWindow.xaml.cs    function        initializeMessageDispatcher     116      55       9
+        MainWindow.xaml.cs    function           handleMoveIntoFolderDirs     173      10       2
+        MainWindow.xaml.cs    function                      rcvThreadProc     186      13       3
+        MainWindow.xaml.cs    function                             Invoke     195       1       1
+        MainWindow.xaml.cs    function                      Window_Closed     203       7       1
+        MainWindow.xaml.cs    function                        getTopFiles     213      28       6
+        MainWindow.xaml.cs    function      filesListBox_MouseDoubleClick     244      15       3
+        MainWindow.xaml.cs    function                prevDirectory_Click     262      14       1
+        MainWindow.xaml.cs    function  selectedFileListBox_MouseDoubleCl     279      15       3
+        MainWindow.xaml.cs    function  buildRequestListBox_MouseDoubleCl     297      15       3
+        MainWindow.xaml.cs    function                     createBR_Click     315      23       1
+        MainWindow.xaml.cs    function                   removeFile_Click     341       6       1
+        MainWindow.xaml.cs    function                      addFile_Click     350       6       1
+        MainWindow.xaml.cs    function                createBuildRequests     359      44       4
+        MainWindow.xaml.cs    function        initializeRequestParameters     406      14       1
+        MainWindow.xaml.cs    function                rootDirectory_Click     428      15       1
+        MainWindow.xaml.cs    function                    showFiles_Click     451      15       1
+        MainWindow.xaml.cs    function                buildSelected_Click     468      24       2
+        MainWindow.xaml.cs    function                     buildAll_Click     494       9       1
+        MainWindow.xaml.cs    function                      QuitMsg_Click     505       9       1
+        MainWindow.xaml.cs    function                       ShowBR_Click     516      11       1
+        MainWindow.xaml.cs    function                        demoProject     530      29       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+          MotherBuilder.cs   namespace                         Federation      60     279      39
+          MotherBuilder.cs       class                      MotherBuilder      63     276      38
+          MotherBuilder.cs    function                      MotherBuilder      79      18       1
+          MotherBuilder.cs    function               createChildProcesses     100      29       4
+          MotherBuilder.cs    function                 initializePortList     132       7       2
+          MotherBuilder.cs    function                     requestHandler     142      36       8
+          MotherBuilder.cs    function              handleRequestMessages     180      47       8
+          MotherBuilder.cs    function                  handleQuitMessage     229      29       4
+          MotherBuilder.cs    function                  handleCloseSender     260      14       2
+          MotherBuilder.cs    function                handleCloseReceiver     277      12       2
+          MotherBuilder.cs    function            sendRequestToChildProcs     293      24       2
+          MotherBuilder.cs    function                               Main     320      17       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+               RepoMock.cs   namespace                         Federation      59     522      58
+               RepoMock.cs       class                           RepoMock      66     515      57
+               RepoMock.cs    function                           RepoMock      82      12       1
+               RepoMock.cs    function                     requestHandler      98      26       6
+               RepoMock.cs    function               handleRequestMessage     126      49      10
+               RepoMock.cs    function           handleFileRequestMessage     177      43       2
+               RepoMock.cs    function                  handleGetTopFiles     222      39       4
+               RepoMock.cs    function                   handleGetTopDirs     263      40       4
+               RepoMock.cs    function          handleMoveIntoFolderFiles     305      44       4
+               RepoMock.cs    function    handleMoveIntoFolderDirsRequest     351      46       5
+               RepoMock.cs    function              handleBuildAllRequest     399      46       4
+               RepoMock.cs    function                              parse     448      37       2
+               RepoMock.cs    function                 handleBuildRequest     488      36       4
+               RepoMock.cs    function                        triggerRepo     528      35       2
+               RepoMock.cs    function                               Main     565      14       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+     Resources.Designer.cs   namespace                    NavigatorClient      12      60       9
+     Resources.Designer.cs       class                          Resources      26      46       8
+     Resources.Designer.cs    function           SuppressMessageAttribute      34       2       1
+     Resources.Designer.cs    function           EditorBrowsableAttribute      42      11       3
+     Resources.Designer.cs    function           EditorBrowsableAttribute      60      10       3
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+      Settings.Designer.cs   namespace                    NavigatorClient      12      19       4
+      Settings.Designer.cs       class                           Settings      18      13       3
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+           Test10_File1.cs   namespace                            DemoApp       8      11       3
+           Test10_File1.cs       class                          Demo1App1      10       9       2
+           Test10_File1.cs    function                          addInputs      12       5       1
+           Test10_File1.cs   namespace                            DemoApp       8      11       3
+           Test10_File1.cs       class                          Demo1App1      10       9       2
+           Test10_File1.cs    function                          addInputs      12       5       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+           Test10_File2.cs   namespace                            DemoApp       8      11       3
+           Test10_File2.cs       class                          Demo2App1      10       9       2
+           Test10_File2.cs    function                     subtractInputs      12       5       1
+           Test10_File2.cs   namespace                            DemoApp       8      11       3
+           Test10_File2.cs       class                          Demo2App1      10       9       2
+           Test10_File2.cs    function                     subtractInputs      12       5       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+            Test1_File1.cs   namespace                            DemoApp       8      11       3
+            Test1_File1.cs       class                          Demo1App1      10       9       2
+            Test1_File1.cs    function                          addInputs      12       5       1
+            Test1_File1.cs   namespace                            DemoApp       8      11       3
+            Test1_File1.cs       class                          Demo1App1      10       9       2
+            Test1_File1.cs    function                          addInputs      12       5       1
+            Test1_File1.cs   namespace                            DemoApp       8      11       3
+            Test1_File1.cs       class                          Demo1App1      10       9       2
+            Test1_File1.cs    function                          addInputs      12       5       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+            Test1_File2.cs   namespace                            DemoApp       8      11       3
+            Test1_File2.cs       class                          Demo2App1      10       9       2
+            Test1_File2.cs    function                     subtractInputs      12       5       1
+            Test1_File2.cs   namespace                            DemoApp       8      11       3
+            Test1_File2.cs       class                          Demo2App1      10       9       2
+            Test1_File2.cs    function                     subtractInputs      12       5       1
+            Test1_File2.cs   namespace                            DemoApp       8      11       3
+            Test1_File2.cs       class                          Demo2App1      10       9       2
+            Test1_File2.cs    function                     subtractInputs      12       5       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+            Test2_File1.cs   namespace                            DemoApp       8      11       3
+            Test2_File1.cs       class                          Demo1App2      10       9       2
+            Test2_File1.cs    function                          addInputs      12       5       1
+            Test2_File1.cs   namespace                            DemoApp       8      11       3
+            Test2_File1.cs       class                          Demo1App2      10       9       2
+            Test2_File1.cs    function                          addInputs      12       5       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+            Test2_File2.cs   namespace                            DemoApp       8      11       3
+            Test2_File2.cs       class                          Demo2App2      10       9       2
+            Test2_File2.cs    function                     subtractInputs      12       5       1
+            Test2_File2.cs   namespace                            DemoApp       8      11       3
+            Test2_File2.cs       class                          Demo2App2      10       9       2
+            Test2_File2.cs    function                     subtractInputs      12       5       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+            Test3_File1.cs   namespace                            DemoApp       8      11       3
+            Test3_File1.cs       class                          Demo1App3      10       9       2
+            Test3_File1.cs    function                     multiplyInputs      12       5       1
+            Test3_File1.cs   namespace                            DemoApp       8      11       3
+            Test3_File1.cs       class                          Demo1App3      10       9       2
+            Test3_File1.cs    function                     multiplyInputs      12       5       1
+            Test3_File1.cs   namespace                            DemoApp       8      11       3
+            Test3_File1.cs       class                          Demo1App3      10       9       2
+            Test3_File1.cs    function                     multiplyInputs      12       5       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+            Test3_File2.cs   namespace                            DemoApp       8      11       3
+            Test3_File2.cs       class                          Demo2App3      10       9       2
+            Test3_File2.cs    function                       divideInputs      12       5       1
+            Test3_File2.cs   namespace                            DemoApp       8      11       3
+            Test3_File2.cs       class                          Demo2App3      10       9       2
+            Test3_File2.cs    function                       divideInputs      12       5       1
+            Test3_File2.cs   namespace                            DemoApp       8      11       3
+            Test3_File2.cs       class                          Demo2App3      10       9       2
+            Test3_File2.cs    function                       divideInputs      12       5       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+            Test4_File1.cs   namespace                            DemoApp       8      11       3
+            Test4_File1.cs       class                          Demo1App2      10       9       2
+            Test4_File1.cs    function                          addInputs      12       5       1
+            Test4_File1.cs   namespace                            DemoApp       8      11       3
+            Test4_File1.cs       class                          Demo1App2      10       9       2
+            Test4_File1.cs    function                          addInputs      12       5       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+            Test4_File2.cs   namespace                            DemoApp       8      11       3
+            Test4_File2.cs       class                          Demo2App2      10       9       2
+            Test4_File2.cs    function                     subtractInputs      12       5       1
+            Test4_File2.cs   namespace                            DemoApp       8      11       3
+            Test4_File2.cs       class                          Demo2App2      10       9       2
+            Test4_File2.cs    function                     subtractInputs      12       5       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+            Test5_File1.cs   namespace                            DemoApp       8      11       3
+            Test5_File1.cs       class                          Demo1App3      10       9       2
+            Test5_File1.cs    function                     multiplyInputs      12       5       1
+            Test5_File1.cs   namespace                            DemoApp       8      11       3
+            Test5_File1.cs       class                          Demo1App3      10       9       2
+            Test5_File1.cs    function                     multiplyInputs      12       5       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+            Test5_File2.cs   namespace                            DemoApp       8      11       3
+            Test5_File2.cs       class                          Demo2App3      10       9       2
+            Test5_File2.cs    function                       divideInputs      12       5       1
+            Test5_File2.cs   namespace                            DemoApp       8      11       3
+            Test5_File2.cs       class                          Demo2App3      10       9       2
+            Test5_File2.cs    function                       divideInputs      12       5       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+            Test6_File1.cs   namespace                            DemoApp       8      11       3
+            Test6_File1.cs       class                          Demo1App1      10       9       2
+            Test6_File1.cs    function                          addInputs      12       5       1
+            Test6_File1.cs   namespace                            DemoApp       8      11       3
+            Test6_File1.cs       class                          Demo1App1      10       9       2
+            Test6_File1.cs    function                          addInputs      12       5       1
+            Test6_File1.cs   namespace                            DemoApp       8      11       3
+            Test6_File1.cs       class                          Demo1App1      10       9       2
+            Test6_File1.cs    function                          addInputs      12       5       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+            Test6_File2.cs   namespace                            DemoApp       8      11       3
+            Test6_File2.cs       class                          Demo2App1      10       9       2
+            Test6_File2.cs    function                     subtractInputs      12       5       1
+            Test6_File2.cs   namespace                            DemoApp       8      11       3
+            Test6_File2.cs       class                          Demo2App1      10       9       2
+            Test6_File2.cs    function                     subtractInputs      12       5       1
+            Test6_File2.cs   namespace                            DemoApp       8      11       3
+            Test6_File2.cs       class                          Demo2App1      10       9       2
+            Test6_File2.cs    function                     subtractInputs      12       5       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+            Test7_File1.cs   namespace                            DemoApp       8      11       3
+            Test7_File1.cs       class                          Demo1App3      10       9       2
+            Test7_File1.cs    function                     multiplyInputs      12       5       1
+            Test7_File1.cs   namespace                            DemoApp       8      11       3
+            Test7_File1.cs       class                          Demo1App3      10       9       2
+            Test7_File1.cs    function                     multiplyInputs      12       5       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+            Test7_File2.cs   namespace                            DemoApp       8      11       3
+            Test7_File2.cs       class                          Demo2App3      10       9       2
+            Test7_File2.cs    function                       divideInputs      12       5       1
+            Test7_File2.cs   namespace                            DemoApp       8      11       3
+            Test7_File2.cs       class                          Demo2App3      10       9       2
+            Test7_File2.cs    function                       divideInputs      12       5       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+            Test8_File1.cs   namespace                            DemoApp       8      11       3
+            Test8_File1.cs       class                          Demo1App1      10       9       2
+            Test8_File1.cs    function                          addInputs      12       5       1
+            Test8_File1.cs   namespace                            DemoApp       8      11       3
+            Test8_File1.cs       class                          Demo1App1      10       9       2
+            Test8_File1.cs    function                          addInputs      12       5       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+            Test8_File2.cs   namespace                            DemoApp       8      11       3
+            Test8_File2.cs       class                          Demo2App1      10       9       2
+            Test8_File2.cs    function                     subtractInputs      12       5       1
+            Test8_File2.cs   namespace                            DemoApp       8      11       3
+            Test8_File2.cs       class                          Demo2App1      10       9       2
+            Test8_File2.cs    function                     subtractInputs      12       5       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+            Test9_File1.cs   namespace                            DemoApp       8      11       3
+            Test9_File1.cs       class                          Demo1App2      10       9       2
+            Test9_File1.cs    function                          addInputs      12       5       1
+            Test9_File1.cs   namespace                            DemoApp       8      11       3
+            Test9_File1.cs       class                          Demo1App2      10       9       2
+            Test9_File1.cs    function                          addInputs      12       5       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+            Test9_File2.cs   namespace                            DemoApp       8      11       3
+            Test9_File2.cs       class                          Demo2App2      10       9       2
+            Test9_File2.cs    function                     subtractInputs      12       5       1
+            Test9_File2.cs   namespace                            DemoApp       8      11       3
+            Test9_File2.cs       class                          Demo2App2      10       9       2
+            Test9_File2.cs    function                     subtractInputs      12       5       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+            TestDriver1.cs   namespace                            DemoApp       8      59       9
+            TestDriver1.cs       class                        TestDriver1      10      57       8
+            TestDriver1.cs    function                            testAdd      12      18       3
+            TestDriver1.cs    function                       testSubtract      32      18       3
+            TestDriver1.cs    function                               test      52      13       1
+            TestDriver1.cs   namespace                            DemoApp       8      59       9
+            TestDriver1.cs       class                        TestDriver1      10      57       8
+            TestDriver1.cs    function                            testAdd      12      18       3
+            TestDriver1.cs    function                       testSubtract      32      18       3
+            TestDriver1.cs    function                               test      52      13       1
+            TestDriver1.cs   namespace                            DemoApp       8      59       9
+            TestDriver1.cs       class                        TestDriver1      10      57       8
+            TestDriver1.cs    function                            testAdd      12      18       3
+            TestDriver1.cs    function                       testSubtract      32      18       3
+            TestDriver1.cs    function                               test      52      13       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+           TestDriver10.cs   namespace                            DemoApp       8      59       9
+           TestDriver10.cs       class                        TestDriver1      10      57       8
+           TestDriver10.cs    function                            testAdd      12      18       3
+           TestDriver10.cs    function                       testSubtract      32      18       3
+           TestDriver10.cs    function                               test      52      13       1
+           TestDriver10.cs   namespace                            DemoApp       8      59       9
+           TestDriver10.cs       class                        TestDriver1      10      57       8
+           TestDriver10.cs    function                            testAdd      12      18       3
+           TestDriver10.cs    function                       testSubtract      32      18       3
+           TestDriver10.cs    function                               test      52      13       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+            TestDriver2.cs   namespace                            DemoApp       8      61       9
+            TestDriver2.cs       class                        TestDriver2      10      59       8
+            TestDriver2.cs    function                            testAdd      12      18       3
+            TestDriver2.cs    function                       testSubtract      32      20       3
+            TestDriver2.cs    function                               test      54      13       1
+            TestDriver2.cs   namespace                            DemoApp       8      61       9
+            TestDriver2.cs       class                        TestDriver2      10      59       8
+            TestDriver2.cs    function                            testAdd      12      18       3
+            TestDriver2.cs    function                       testSubtract      32      20       3
+            TestDriver2.cs    function                               test      54      13       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+            TestDriver3.cs   namespace                            DemoApp       8      59       5
+            TestDriver3.cs       class                        TestDriver3      10      57       4
+            TestDriver3.cs    function                       testMultiply      12      18       1
+            TestDriver3.cs    function                         testDivide      32      18       1
+            TestDriver3.cs    function                               test      52      13       1
+            TestDriver3.cs   namespace                            DemoApp       8      59       5
+            TestDriver3.cs       class                        TestDriver3      10      57       4
+            TestDriver3.cs    function                       testMultiply      12      18       1
+            TestDriver3.cs    function                         testDivide      32      18       1
+            TestDriver3.cs    function                               test      52      13       1
+            TestDriver3.cs   namespace                            DemoApp       8      59       5
+            TestDriver3.cs       class                        TestDriver3      10      57       4
+            TestDriver3.cs    function                       testMultiply      12      18       1
+            TestDriver3.cs    function                         testDivide      32      18       1
+            TestDriver3.cs    function                               test      52      13       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+            TestDriver4.cs   namespace                            DemoApp       8      61       9
+            TestDriver4.cs       class                        TestDriver2      10      59       8
+            TestDriver4.cs    function                            testAdd      12      18       3
+            TestDriver4.cs    function                       testSubtract      32      20       3
+            TestDriver4.cs    function                               test      54      13       1
+            TestDriver4.cs   namespace                            DemoApp       8      61       9
+            TestDriver4.cs       class                        TestDriver2      10      59       8
+            TestDriver4.cs    function                            testAdd      12      18       3
+            TestDriver4.cs    function                       testSubtract      32      20       3
+            TestDriver4.cs    function                               test      54      13       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+            TestDriver5.cs   namespace                            DemoApp       8      59       5
+            TestDriver5.cs       class                        TestDriver3      10      57       4
+            TestDriver5.cs    function                       testMultiply      12      18       1
+            TestDriver5.cs    function                         testDivide      32      18       1
+            TestDriver5.cs    function                               test      52      13       1
+            TestDriver5.cs   namespace                            DemoApp       8      59       5
+            TestDriver5.cs       class                        TestDriver3      10      57       4
+            TestDriver5.cs    function                       testMultiply      12      18       1
+            TestDriver5.cs    function                         testDivide      32      18       1
+            TestDriver5.cs    function                               test      52      13       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+            TestDriver6.cs   namespace                            DemoApp       8      59       9
+            TestDriver6.cs       class                        TestDriver1      10      57       8
+            TestDriver6.cs    function                            testAdd      12      18       3
+            TestDriver6.cs    function                       testSubtract      32      18       3
+            TestDriver6.cs    function                               test      52      13       1
+            TestDriver6.cs   namespace                            DemoApp       8      59       9
+            TestDriver6.cs       class                        TestDriver1      10      57       8
+            TestDriver6.cs    function                            testAdd      12      18       3
+            TestDriver6.cs    function                       testSubtract      32      18       3
+            TestDriver6.cs    function                               test      52      13       1
+            TestDriver6.cs   namespace                            DemoApp       8      59       9
+            TestDriver6.cs       class                        TestDriver1      10      57       8
+            TestDriver6.cs    function                            testAdd      12      18       3
+            TestDriver6.cs    function                       testSubtract      32      18       3
+            TestDriver6.cs    function                               test      52      13       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+            TestDriver7.cs   namespace                            DemoApp       8      59       5
+            TestDriver7.cs       class                        TestDriver3      10      57       4
+            TestDriver7.cs    function                       testMultiply      12      18       1
+            TestDriver7.cs    function                         testDivide      32      18       1
+            TestDriver7.cs    function                               test      52      13       1
+            TestDriver7.cs   namespace                            DemoApp       8      59       5
+            TestDriver7.cs       class                        TestDriver3      10      57       4
+            TestDriver7.cs    function                       testMultiply      12      18       1
+            TestDriver7.cs    function                         testDivide      32      18       1
+            TestDriver7.cs    function                               test      52      13       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+            TestDriver8.cs   namespace                            DemoApp       8      59       9
+            TestDriver8.cs       class                        TestDriver1      10      57       8
+            TestDriver8.cs    function                            testAdd      12      18       3
+            TestDriver8.cs    function                       testSubtract      32      18       3
+            TestDriver8.cs    function                               test      52      13       1
+            TestDriver8.cs   namespace                            DemoApp       8      59       9
+            TestDriver8.cs       class                        TestDriver1      10      57       8
+            TestDriver8.cs    function                            testAdd      12      18       3
+            TestDriver8.cs    function                       testSubtract      32      18       3
+            TestDriver8.cs    function                               test      52      13       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+            TestDriver9.cs   namespace                            DemoApp       8      61       9
+            TestDriver9.cs       class                        TestDriver2      10      59       8
+            TestDriver9.cs    function                            testAdd      12      18       3
+            TestDriver9.cs    function                       testSubtract      32      20       3
+            TestDriver9.cs    function                               test      54      13       1
+            TestDriver9.cs   namespace                            DemoApp       8      61       9
+            TestDriver9.cs       class                        TestDriver2      10      59       8
+            TestDriver9.cs    function                            testAdd      12      18       3
+            TestDriver9.cs    function                       testSubtract      32      20       3
+            TestDriver9.cs    function                               test      54      13       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+          TestExecutive.cs   namespace                      TestExecutive      40      20       3
+          TestExecutive.cs       class                      TestExecutive      42      18       2
+          TestExecutive.cs    function                               Main      44      14       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+        TestHarnessMock.cs   namespace                         Federation      53     209      28
+        TestHarnessMock.cs       class                    TestHarnessMock      55     207      27
+        TestHarnessMock.cs    function                    TestHarnessMock      68      11       1
+        TestHarnessMock.cs    function                     requestHandler      83      27       6
+        TestHarnessMock.cs    function              handleRequestMessages     112      44       6
+        TestHarnessMock.cs    function                   getSpecificFiles     158      15       2
+        TestHarnessMock.cs    function                   executeLibraries     177      13       1
+        TestHarnessMock.cs    function                 triggerTestHarness     193      50       2
+        TestHarnessMock.cs    function                               Main     245      14       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+            TestRequest.cs   namespace                        HelpSession      50     159      26
+            TestRequest.cs       class                        TestRequest      54     136      23
+            TestRequest.cs    function                        makeRequest      66      34       2
+            TestRequest.cs    function                            loadXml     103      12       3
+            TestRequest.cs    function                            saveXml     118      12       3
+            TestRequest.cs    function                              parse     133      29       3
+            TestRequest.cs    function                          parseList     166      22       4
+            TestRequest.cs       class                   Test_TestRequest     195      12       2
+            TestRequest.cs    function                               Main     197       8       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+          TestUtilities.cs   namespace                 MessagePassingComm      38      91      15
+          TestUtilities.cs       class                      TestUtilities      40      89      14
+          TestUtilities.cs    function                        checkResult      43       8       1
+          TestUtilities.cs    function                          checkNull      54      10       2
+          TestUtilities.cs    function                       handleInvoke      74      16       4
+          TestUtilities.cs    function                              title      93       4       1
+          TestUtilities.cs    function                            vbtitle     100       7       2
+          TestUtilities.cs    function                            putLine     110       9       2
+          TestUtilities.cs    function                               Main     122       4       1
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+           MainWindow.g.cs    function       DebuggerNonUserCodeAttribute     190     141       2
+         MainWindow.g.i.cs    function       DebuggerNonUserCodeAttribute     190     141       2
+        MainWindow.xaml.cs    function        initializeMessageDispatcher     116      55       9
+
+
+
+    searched   108 dirs
+   processed   134 files

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<testRequest>
+  <toRequest>ProjectBuilder</toRequest>
+  <fromRequest>Client</fromRequest>
+  <typeOfRequest>BuildRequest</typeOfRequest>
+  <dateTime>12/7/2017 6:48:28 PM</dateTime>
+  <test>
+    <testDriver>TestDriver1</testDriver>
+    <tested>ITest.cs</tested>
+    <tested>Test1_File1.cs</tested>
+    <tested>Test1_File2.cs</tested>
+    <tested>TestDriver1.cs</tested>
+  </test>
+</testRequest>
