@@ -1,7 +1,8 @@
 # Remote-Build-Server
+
 Developed a robust Federation, consisting of a Mock GUI Client, a Mock Repository, a Remote Build Server and a Test Harness. Each component is a REST Service which communicates with each other by exchanging messages through proper channels. The Client selects and keeps files in the repository and asks the Build Server to compile and the Test Harness to execute. Appropriate Log files and results are sent to the Client. Built using C# .Net, WCF and WPF; Individual Project
 
-========================================================================================================================================
+----------------------------------------------------------------------------------
 
 The Project Demonstrates:
 
@@ -38,7 +39,7 @@ Req 12:	The client sends build request structures to the repository for storage 
 
 Req 13: The client is able to request the repository to send a build request in its storage to the Build Server for build processing.
 
-========================================================================================================================================
+----------------------------------------------------------------------------------
 
 Folder Details:
 --------------
@@ -72,4 +73,4 @@ Folder Details:
 		- \Logs\ : 
 			saves the Logs received from the Build Server and the Test Harness
 
-========================================================================================================================================
+----------------------------------------------------------------------------------
